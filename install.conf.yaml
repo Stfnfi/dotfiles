@@ -12,5 +12,14 @@
     ~/.config/polybar:
         path: config/polybar/
         create: true
+    ~/.config/nitrogen:
+        path: config/nitrogen/
+        create: true
+    ~/.screenlayout:
+        path: screenlayout/
+        create: true
+    ~/Pictures/wallpapers:
+        path: Pictures/wallpapers/
+        create: true
 
 

@@ -100,4 +100,3 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-if [ -e /home/stefanfi/.nix-profile/etc/profile.d/nix.sh ]; then . /home/stefanfi/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
